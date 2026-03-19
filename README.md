@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <img src="Scripts/ScriptUI Panels/(MediaBelt)/mediabelt.png"/>
+    <img src="res/MediaBelt.png"/>
 </p>
 
 # MediaBelt
