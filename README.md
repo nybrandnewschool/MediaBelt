@@ -30,7 +30,6 @@ All tools in the MediaBelt apply to each selected Comp and Footage Item in the P
 3. Bind hotkeys to any of the exposed commands from the library. 
 
 ### Recommended Shortcuts
-
 hotkey | command
 -------|------------
 Alt+Down | Version Down
