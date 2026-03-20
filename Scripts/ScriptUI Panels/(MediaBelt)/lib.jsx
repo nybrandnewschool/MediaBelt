@@ -1,7 +1,7 @@
 var Metadata = {
   name: "MediaBelt",
   author: "Dan Bradham",
-  version: "26.0.0",
+  version: "26.0.1",
 };
 
 /** Get user data folder. */
