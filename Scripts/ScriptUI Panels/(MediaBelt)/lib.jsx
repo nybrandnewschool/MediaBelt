@@ -147,7 +147,7 @@ function change_footage_version(item, step) {
 
   if (item.mainSource.isStill) {
     item.replace(new_source_file);
-  } else if (is_image_sequence(item.name, item.file.fsName)) {
+  } else if (is_image_sequence(item.file.name, item.file.fsName)) {
     item.replaceWithSequence(new_source_file, false);
   } else {
     item.replace(new_source_file);
