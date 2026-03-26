@@ -3,6 +3,8 @@
     <img src="res/MediaBelt.png"/>
 </p>
 
+![Latest Release](https://img.shields.io/github/v/release/danbradham/MediaBelt)
+
 # MediaBelt
 Essential tools for working with Media in After Effects.
 
