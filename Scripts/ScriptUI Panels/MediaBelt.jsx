@@ -134,7 +134,21 @@
     fps_label.justify = "right";
     fps_label.alignment = "left";
 
-    var fps_dropdown = fps_row.add("dropdownlist", undefined, ["8", "12", "15", "23.976", "24", "25", "29.97", "30", "50", "59.94", "60", "120"]);
+    var fps_dropdown = fps_row.add("dropdownlist", undefined, [
+      "8",
+      "12",
+      "15",
+      "23.976",
+      "23.98",
+      "24",
+      "25",
+      "29.97",
+      "30",
+      "50",
+      "59.94",
+      "60",
+      "120",
+    ]);
     fps_dropdown.selection = 7;
 
     var button_fps_apply = fps_row.add("button", undefined, "Apply");
